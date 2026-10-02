@@ -1,20 +1,12 @@
 # Leeseo Workspace
 
-O Leeseo é uma plataforma de coleção e troca de cards de K-pop integrada ao Discord. A comunidade pode conseguir cards, completar coleções, abrir caixas e participar de atividades tanto pelo bot quanto pelo site.
+Leeseo é uma plataforma de coleção e troca de cards de K-pop integrada ao Discord. A comunidade pode conseguir cards, completar coleções, abrir caixas e participar de atividades tanto pelo bot quanto pelo site.
 
 ## O que você encontra
 
 - **Bot Discord:** drops de cards, coleção e inventário, caixas, loja, trocas, presentes, missões, recompensas e jogos.
 - **Website:** visualização de coleção e álbuns, marketplace, perfil, caixas, recompensas e Game Hub. Também inclui ferramentas administrativas para criar e gerenciar cards.
 - **API:** serviços de autenticação, usuários, coleção, loja, pagamentos, recompensas, jogos e administração, compartilhando os dados usados pelo bot e pelo site.
-
-## Repositórios
-
-| Projeto | Responsabilidade |
-| --- | --- |
-| [Bot](https://github.com/leeseoworkspace/bot) | Bot e experiências da comunidade no Discord. |
-| [Website](https://github.com/leeseoworkspace/website) | Interface web do Leeseo. |
-| [API](https://github.com/leeseoworkspace/api) | API e serviços de backend. |
 
 ## Tecnologias
 
