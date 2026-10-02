@@ -2,6 +2,11 @@
 
 Leeseo é uma plataforma de coleção e troca de cards de K-pop integrada ao Discord. A comunidade pode conseguir cards, completar coleções, abrir caixas e participar de atividades tanto pelo bot quanto pelo site.
 
+## Links
+
+- **Site:** [leeseobot.app](https://leeseobot.app)
+- **Servidor de suporte:** [Discord](https://discord.gg/hcVw7TYhu7)
+
 ## O que você encontra
 
 - **Bot Discord:** drops de cards, coleção e inventário, caixas, loja, trocas, presentes, missões, recompensas e jogos.
